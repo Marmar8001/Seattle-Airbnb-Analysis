@@ -22,8 +22,8 @@ The listing prices in most of the cases were below 200 dollars. Most of the case
 4) How the number of accomodates correlates with average price?
 The price was increasing with number of accomodates untill 11 accomodates. After 11 accomodates, the price was not increasing with number of accomodates.
 
-4) Which parameters were correlated more with eachother?
-5) Based on the heatmap, price was correlating with number of accomodates, bedrooms, bathrooms and beds. Reveiw_scores parameters were correlating with host being superhost or not.
+5) Which parameters were correlated more with eachother?
+Based on the heatmap, price was correlating with number of accomodates, bedrooms, bathrooms and beds. Reveiw_scores parameters were correlating with host being superhost or not.
 
-5) Which parameters affect the price more based on the modeling result?
+6) Which parameters affect the price more based on the modeling result?
 The final feature importance on random forest model showed that five most important features were number of bedrooms, bathrooms, reveiw_scores_rating and the length of the time the person was host as well as number of accomodates.
