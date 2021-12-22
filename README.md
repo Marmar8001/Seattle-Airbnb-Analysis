@@ -44,4 +44,4 @@ The final feature importance on random forest model showed that five most import
 
 **acknowledgments:**
 
-Thanks to Kaggle for having interesting dataset to analyze!
+Thanks to Kaggle for having interesting dataset to analyze and Stackoverflow for useful hints!
