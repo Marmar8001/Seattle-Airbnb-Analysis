@@ -42,5 +42,6 @@ Based on the heatmap, price was correlating with number of accomodates, bedrooms
 6)Which parameters affect the price more based on the modeling result?
 The final feature importance on random forest model showed that five most important features were number of bedrooms, bathrooms, reveiw_scores_rating and the length of the time the person was host as well as number of accomodates.
 
-acknowledgments:
+**acknowledgments:**
+
 Thanks to Kaggle for having interesting dataset to analyze!
