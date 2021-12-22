@@ -1,14 +1,15 @@
 # Seattle-Airbnb-Analysis
 
 **Project Motivation :**
+
 This project was done for completing Udacity nanodegree program to understand effective parameters for predicting AirBnB prices in Seattle in 2016.
 
-This project investigates the effect of different parameters on price of airbnb homes. The data was taken from Kaggle and belongs to the year of 2016. This project will follow CRISP-DM methdology which consists of these four steps:
+**Files in Repository:**
 
-1) Business understanding
-2) Data understanding and preparing
-3) Modeling
-4) Evaluation & Conclusion
+
+
+**Table of Contents:**
+
 
 
 The main results from the study were :
