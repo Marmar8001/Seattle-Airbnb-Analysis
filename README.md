@@ -6,11 +6,21 @@ This project was done for completing Udacity nanodegree program to understand ef
 
 **Files in Repository:**
 
+There are two csv files and one python file in the repository. The python file shows the details of data cleaning, exploratory analysis, modeling and model evaluation.
+The calenadar.csv file shows the listing ids as well as month and price of them.
+The listing.csv file shows the listings and their features like numbers of bedrooms, bathrooms, reviews etc.
 
 
-**Table of Contents:**
+**Table of Contents in python file:**
 
+* Business Understanding
+* Importing Necessary Packages
+* Reading the Datasets
+* Data Cleaning & Visualization
+* Data Modeling
+* Evaluation & Correlation
 
+**Summary of Results:**
 
 The main results from the study were :
 
@@ -31,3 +41,6 @@ Based on the heatmap, price was correlating with number of accomodates, bedrooms
 
 6)Which parameters affect the price more based on the modeling result?
 The final feature importance on random forest model showed that five most important features were number of bedrooms, bathrooms, reveiw_scores_rating and the length of the time the person was host as well as number of accomodates.
+
+acknowledgments:
+Thanks to Kaggle for having interesting dataset to analyze!
